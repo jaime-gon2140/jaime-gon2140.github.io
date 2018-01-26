@@ -1,0 +1,32 @@
+body {
+  /* border: 1px solid red; */
+  text-align: center;
+}
+.navbar {
+  background-color: rgb(240, 147, 18);
+  height: 75px;
+  font-size: 1.9rem;
+  margin: 0 auto;
+}
+
+.nav {
+  text-align: right;
+  height: 100%;
+}
+
+.nav ul {
+  padding: 50% 25% 0 0;
+  display: inline-block;
+}
+
+.nav li {
+  display: inline-block;
+  list-style: none;
+}
+
+.nav a {
+  text-decoration: none;
+  color: white;
+  margin-right: 2px;
+  padding-right: 13px;
+}
